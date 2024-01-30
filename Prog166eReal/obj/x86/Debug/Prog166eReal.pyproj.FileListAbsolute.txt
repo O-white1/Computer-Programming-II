@@ -1,0 +1,14 @@
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\Prog166eReal.exe.config
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\Prog166eReal.exe
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\Prog166eReal.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\IronPython.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\IronPython.Modules.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\IronPython.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\bin\Debug\IronPython.Modules.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\obj\x86\Debug\Prog166eReal.pyprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\obj\x86\Debug\Prog166eReal.MainForm.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\obj\x86\Debug\Prog166eReal.pyproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Prog166eReal\obj\x86\Debug\Prog166eReal.exe
