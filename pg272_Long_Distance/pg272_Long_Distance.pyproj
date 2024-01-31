@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{2605C62F-D118-4D59-97FB-0C49BD286CC6}</ProjectGuid>
+    <ProjectGuid>{108207E0-A6B2-4835-A920-9A5FE78D3BAD}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <RootNamespace>Prog122a</RootNamespace>
-    <AssemblyName>Prog122a</AssemblyName>
+    <RootNamespace>pg272_Long_Distance</RootNamespace>
+    <AssemblyName>pg272_Long_Distance</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
     <PlatformTarget>x86</PlatformTarget>

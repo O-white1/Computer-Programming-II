@@ -1,0 +1,14 @@
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\pg272_Long_Distance.exe.config
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\pg272_Long_Distance.exe
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\pg272_Long_Distance.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\IronPython.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\IronPython.Modules.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\IronPython.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\bin\Debug\IronPython.Modules.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\obj\x86\Debug\pg272_Long_Distance.pyprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\obj\x86\Debug\pg272_Long_Distance.MainForm.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\obj\x86\Debug\pg272_Long_Distance.pyproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg272_Long_Distance\obj\x86\Debug\pg272_Long_Distance.exe
