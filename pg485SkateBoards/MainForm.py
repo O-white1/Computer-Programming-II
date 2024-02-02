@@ -130,7 +130,6 @@ class MainForm(Form):
 		self._radioButton5.TabStop = True
 		self._radioButton5.Text = "8 axle       $40"
 		self._radioButton5.UseVisualStyleBackColor = True
-		self._radioButton5.CheckedChanged += self.RadioButton5CheckedChanged
 		# 
 		# radioButton6
 		# 
@@ -161,7 +160,6 @@ class MainForm(Form):
 		self._radioButton8.TabStop = True
 		self._radioButton8.Text = "55   $22"
 		self._radioButton8.UseVisualStyleBackColor = True
-		self._radioButton8.CheckedChanged += self.RadioButton8CheckedChanged
 		# 
 		# radioButton9
 		# 
@@ -198,7 +196,6 @@ class MainForm(Form):
 		self._radioButton10.TabStop = True
 		self._radioButton10.Text = "Riser pads $2"
 		self._radioButton10.UseVisualStyleBackColor = True
-		self._radioButton10.CheckedChanged += self.RadioButton10CheckedChanged
 		# 
 		# radioButton11
 		# 
@@ -250,6 +247,7 @@ class MainForm(Form):
 		self._button1.TabIndex = 4
 		self._button1.Text = "Clear"
 		self._button1.UseVisualStyleBackColor = False
+		self._button1.Click += self.Button1Click
 		# 
 		# button2
 		# 
@@ -273,14 +271,15 @@ class MainForm(Form):
 		self._button3.TabIndex = 6
 		self._button3.Text = "Quit"
 		self._button3.UseVisualStyleBackColor = False
+		self._button3.Click += self.Button3Click
 		# 
 		# label1
 		# 
 		self._label1.BackColor = System.Drawing.Color.DarkGray
 		self._label1.Font = System.Drawing.Font("Papyrus", 48, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, 0)
-		self._label1.Location = System.Drawing.Point(12, 206)
+		self._label1.Location = System.Drawing.Point(12, 222)
 		self._label1.Name = "label1"
-		self._label1.Size = System.Drawing.Size(805, 152)
+		self._label1.Size = System.Drawing.Size(805, 126)
 		self._label1.TabIndex = 7
 		self._label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 		# 
@@ -293,7 +292,6 @@ class MainForm(Form):
 		self._radioButton15.TabStop = True
 		self._radioButton15.Text = "Assembly $10"
 		self._radioButton15.UseVisualStyleBackColor = True
-		self._radioButton15.CheckedChanged += self.RadioButton15CheckedChanged
 		# 
 		# MainForm
 		# 
@@ -314,20 +312,6 @@ class MainForm(Form):
 		self._groupBox3.ResumeLayout(False)
 		self._groupBox4.ResumeLayout(False)
 		self.ResumeLayout(False)
-	"""
-
-
-	def RadioButton5CheckedChanged(self, sender, e):
-		pass
-
-	def RadioButton8CheckedChanged(self, sender, e):
-		pass
-
-	def RadioButton10CheckedChanged(self, sender, e):
-		pass
-	
-	"""
-	
 	
 	
 	
@@ -347,35 +331,35 @@ class MainForm(Form):
 			board = 50
 		
 		
-		if self.radioButton4.Checked == True:
+		if self._radioButton4.Checked == True:
 			TA = 35 # also price
-		if self.radioButton5.Checked == True:
+		if self._radioButton5.Checked == True:
 			TA = 40
-		if self.radioButton6.Checked == True:
+		if self._radioButton6.Checked == True:
 			TA = 45
 	
-		if self.radioButton7.Checked == True:
+		if self._radioButton7.Checked == True:
 			wheels = 20
-		if self.radioButton8.Checked == True:
+		if self._radioButton8.Checked == True:
 			wheels = 22
-		if self.radioButton9.Checked == True:
+		if self._radioButton9.Checked == True:
 			wheels = 24
-		if self.radioButton13.Checked == True:
+		if self._radioButton13.Checked == True:
 			wheels = 28
 		
-		if self.radioButton12.Checked == True:
+		if self._radioButton12.Checked == True:
 			srv=10
-		if self.radioButton11.Checked == True:
+		if self._radioButton11.Checked == True:
 			srv=30
-		if self.radioButton10.Checked == True:
+		if self._radioButton10.Checked == True:
 			srv=2
-		if self.radioButton14.Checked == True:
+		if self._radioButton14.Checked == True:
 			srv=3
-		if self.radioButton15.Checked == True:
+		if self._radioButton15.Checked == True:
 			srv=10
 
-
-		self._label1.Text = str("$" + srv+wheels+TA+board)
+		tot = (srv+wheels+TA+board)*1.06
+		self._label1.Text = str("$" + str(tot))
 		
 		
 		
@@ -418,8 +402,8 @@ class MainForm(Form):
 
 
 
+	def Button1Click(self, sender, e):
+		self._label1.Text = ""
 
-
-
-	def RadioButton15CheckedChanged(self, sender, e):
-		pass
+	def Button3Click(self, sender, e):
+		Application.Exit()
