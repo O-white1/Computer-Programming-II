@@ -20,6 +20,8 @@ class MainForm(Form):
 		self._button2 = System.Windows.Forms.Button()
 		self._button3 = System.Windows.Forms.Button()
 		self._label4 = System.Windows.Forms.Label()
+		self._groupBox1 = System.Windows.Forms.GroupBox()
+		self._groupBox1.SuspendLayout()
 		self.SuspendLayout()
 		# 
 		# label1
@@ -49,9 +51,9 @@ class MainForm(Form):
 		self._radioButton1.BackColor = System.Drawing.Color.Maroon
 		self._radioButton1.Font = System.Drawing.Font("Microsoft Uighur", 15.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._radioButton1.ForeColor = System.Drawing.Color.WhiteSmoke
-		self._radioButton1.Location = System.Drawing.Point(12, 44)
+		self._radioButton1.Location = System.Drawing.Point(6, 19)
 		self._radioButton1.Name = "radioButton1"
-		self._radioButton1.Size = System.Drawing.Size(236, 35)
+		self._radioButton1.Size = System.Drawing.Size(194, 35)
 		self._radioButton1.TabIndex = 2
 		self._radioButton1.TabStop = True
 		self._radioButton1.Text = "DayTime(6:00AM - 5:59 PM)"
@@ -62,9 +64,9 @@ class MainForm(Form):
 		self._radioButton2.BackColor = System.Drawing.Color.Maroon
 		self._radioButton2.Font = System.Drawing.Font("Microsoft Uighur", 15.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._radioButton2.ForeColor = System.Drawing.Color.WhiteSmoke
-		self._radioButton2.Location = System.Drawing.Point(12, 74)
+		self._radioButton2.Location = System.Drawing.Point(6, 55)
 		self._radioButton2.Name = "radioButton2"
-		self._radioButton2.Size = System.Drawing.Size(236, 35)
+		self._radioButton2.Size = System.Drawing.Size(188, 35)
 		self._radioButton2.TabIndex = 3
 		self._radioButton2.TabStop = True
 		self._radioButton2.Text = "Evening(6:00PM - 11:59PM)"
@@ -75,9 +77,9 @@ class MainForm(Form):
 		self._radioButton3.BackColor = System.Drawing.Color.Maroon
 		self._radioButton3.Font = System.Drawing.Font("Microsoft Uighur", 15.75, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, 0)
 		self._radioButton3.ForeColor = System.Drawing.Color.WhiteSmoke
-		self._radioButton3.Location = System.Drawing.Point(12, 104)
+		self._radioButton3.Location = System.Drawing.Point(6, 84)
 		self._radioButton3.Name = "radioButton3"
-		self._radioButton3.Size = System.Drawing.Size(236, 35)
+		self._radioButton3.Size = System.Drawing.Size(188, 35)
 		self._radioButton3.TabIndex = 4
 		self._radioButton3.TabStop = True
 		self._radioButton3.Text = "Off Peak(12:00AM - 5:59PM)"
@@ -149,36 +151,54 @@ class MainForm(Form):
 		self._label4.Size = System.Drawing.Size(165, 43)
 		self._label4.TabIndex = 10
 		# 
+		# groupBox1
+		# 
+		self._groupBox1.Controls.Add(self._radioButton1)
+		self._groupBox1.Controls.Add(self._radioButton2)
+		self._groupBox1.Controls.Add(self._radioButton3)
+		self._groupBox1.Location = System.Drawing.Point(19, 32)
+		self._groupBox1.Name = "groupBox1"
+		self._groupBox1.Size = System.Drawing.Size(196, 166)
+		self._groupBox1.TabIndex = 11
+		self._groupBox1.TabStop = False
+		self._groupBox1.Text = "groupBox1"
+		# 
 		# MainForm
 		# 
 		self.BackColor = System.Drawing.Color.Maroon
 		self.ClientSize = System.Drawing.Size(486, 449)
+		self.Controls.Add(self._groupBox1)
 		self.Controls.Add(self._label4)
 		self.Controls.Add(self._button3)
 		self.Controls.Add(self._button2)
 		self.Controls.Add(self._button1)
 		self.Controls.Add(self._label3)
 		self.Controls.Add(self._textBox1)
-		self.Controls.Add(self._radioButton3)
-		self.Controls.Add(self._radioButton2)
-		self.Controls.Add(self._radioButton1)
 		self.Controls.Add(self._label2)
 		self.Controls.Add(self._label1)
 		self.Name = "MainForm"
 		self.Text = "pg272_Long_Distance"
+		self._groupBox1.ResumeLayout(False)
 		self.ResumeLayout(False)
 		self.PerformLayout()
 
 
 	def Button1Click(self, sender, e):
 		calltime = int(self._textBox1.Text)
+		self._radioButton1.Enabled == False
+		self._radioButton2.Enabled == False
+		self._radioButton3.Enabled == False
 		todc = 0 #time of day charge
-		if self._radioButton1.Enabled == True:
+		if self._radioButton1.Checked == True:
 			todc = 0.07
-		if self._radioButton2.Enabled == True:
+			
+		
+		elif self._radioButton2.Checked == True:
 			todc = 0.12
-		if self._radioButton2.Enabled == True:
+		elif self._radioButton3.Checked == True:
 			todc = 0.05
+		
+		
 		self._label4.Text = ("$" + str(todc*calltime))
 
 	def Button2Click(self, sender, e):

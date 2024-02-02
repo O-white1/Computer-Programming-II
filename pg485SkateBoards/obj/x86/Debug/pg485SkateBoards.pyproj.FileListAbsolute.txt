@@ -1,0 +1,14 @@
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\pg485SkateBoards.exe.config
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\pg485SkateBoards.exe
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\pg485SkateBoards.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\IronPython.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\IronPython.Modules.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\IronPython.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\bin\Debug\IronPython.Modules.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\obj\x86\Debug\pg485SkateBoards.pyprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\obj\x86\Debug\pg485SkateBoards.MainForm.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\obj\x86\Debug\pg485SkateBoards.pyproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\pg485SkateBoards\obj\x86\Debug\pg485SkateBoards.exe
