@@ -6,3 +6,4 @@ for x in range(2, 11, 2):
   col3 = x*2
   col4= x**2
   print(f"{x}\t{col2}\t{col3}\t{col4}")
+  #yay
