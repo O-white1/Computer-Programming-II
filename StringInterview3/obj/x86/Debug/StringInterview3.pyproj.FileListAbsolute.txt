@@ -1,0 +1,14 @@
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\obj\x86\Debug\StringInterview3.pyprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\obj\x86\Debug\StringInterview3.MainForm.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\obj\x86\Debug\StringInterview3.pyproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\StringInterview3.exe.config
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\StringInterview3.exe
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\StringInterview3.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\IronPython.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\IronPython.Modules.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\IronPython.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\bin\Debug\IronPython.Modules.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\StringInterview3\obj\x86\Debug\StringInterview3.exe

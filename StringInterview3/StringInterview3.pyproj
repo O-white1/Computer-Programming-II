@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{E04268C0-5C9D-46B8-BDC0-C9508782CB6C}</ProjectGuid>
+    <ProjectGuid>{7C94E88C-494E-4C00-9CE3-6BA83B8138B2}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <RootNamespace>Pg485ShadeDesigner</RootNamespace>
-    <AssemblyName>Pg485ShadeDesigner</AssemblyName>
+    <RootNamespace>StringInterview3</RootNamespace>
+    <AssemblyName>StringInterview3</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
     <PlatformTarget>x86</PlatformTarget>
