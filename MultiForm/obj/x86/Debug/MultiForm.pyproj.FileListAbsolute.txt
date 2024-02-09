@@ -1,0 +1,16 @@
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\MultiForm.exe.config
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\MultiForm.exe
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\MultiForm.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\IronPython.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\IronPython.Modules.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\IronPython.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\bin\Debug\IronPython.Modules.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\obj\x86\Debug\MultiForm.pyprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\obj\x86\Debug\MultiForm.Form1.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\obj\x86\Debug\MultiForm.MainForm.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\obj\x86\Debug\MultiForm.pyproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\obj\x86\Debug\MultiForm.exe
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\MultiForm\obj\x86\Debug\MultiForm.Form2.resources
