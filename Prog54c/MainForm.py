@@ -143,10 +143,16 @@ class MainForm(Form):
 	def Button1Click(self, sender, e):
 		rad = int(self._textBox1.Text)
 		pi = 3.14159
-		circ = 2 * (rad * pi)
-		area = (pi * (rad*rad))
-		self._label4.Text = str(area)
-		self._label5.Text = str(circ)
+		def GetArea():
+			area = (pi * (rad*rad))
+		def GetCirc():
+			circ = 2 * (rad * pi)
+		def calc():
+			GetArea()
+			GetCirc()
+			self._label4.Text = str(self.area)
+			self._label5.Text = str(self.circ)
+		calc()
 
 	def Button2Click(self, sender, e):
 		self._textBox1.Text = ""

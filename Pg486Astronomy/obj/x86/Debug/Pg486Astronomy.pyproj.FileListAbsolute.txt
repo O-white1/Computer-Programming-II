@@ -1,0 +1,3 @@
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Pg486Astronomy\obj\x86\Debug\Pg486Astronomy.pyprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Pg486Astronomy\obj\x86\Debug\Pg486Astronomy.MainForm.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\Pg486Astronomy\obj\x86\Debug\Pg486Astronomy.pyproj.GenerateResource.Cache
