@@ -21,11 +21,11 @@ class Shape:
     return self._perim
 
 
-  len = int(input("Enter Length: "))
-  wid = int(input("Enter Width:  "))
-  # make a new shape object
-  shape = Shape(len, wid) # call the Shape contructor
-  # shape.setLength(5) changes length variable
-  shape.calculate()
-  print("Area ", shape.getArea())
-  print("Perimter", shape.getPerimeter)
+len = int(input("Enter Length: "))
+wid = int(input("Enter Width:  "))
+# make a new shape object
+shape = Shape(len, wid) # call the Shape contructor
+# shape.setLength(5) changes length variable
+shape.calculate()
+print("Area ", shape.getArea())
+print("Perimter", shape.getPerim())
