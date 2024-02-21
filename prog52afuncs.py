@@ -1,4 +1,4 @@
-import voidfunctions.py
+import vodfunctions
 
 def calcArea(len, wid) -> int:
   return len * wid
@@ -13,7 +13,7 @@ def AreaPerim(len, wid):
 
 
 def main():
-  voidfunctions.doSomething() # uses function from import
+  vodfunctions.doSomething() # uses function from import
   len = int(input("Length: "))
   wid = int(input("Width:  "))
   a, p = AreaPerim(len, wid)
