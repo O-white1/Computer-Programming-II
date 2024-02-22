@@ -59,15 +59,35 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Earth.py" />
+    <Compile Include="Jupitar.py" />
     <Compile Include="MainForm.py" />
+    <Compile Include="Mars.py" />
+    <Compile Include="Merucury.py" />
     <Compile Include="Program.py" />
+    <Compile Include="Venus.py" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Earth.resx">
+      <DependentUpon>Earth.py</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jupitar.resx">
+      <DependentUpon>Jupitar.py</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.py</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mars.resx">
+      <DependentUpon>Mars.py</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Merucury.resx">
+      <DependentUpon>Merucury.py</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venus.resx">
+      <DependentUpon>Venus.py</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(PythonBinPath)\SharpDevelop.Build.Python.targets" />
