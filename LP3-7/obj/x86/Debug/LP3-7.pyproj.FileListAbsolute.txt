@@ -1,0 +1,14 @@
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\LP3-7.exe.config
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\LP3-7.exe
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\LP3-7.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\IronPython.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\IronPython.Modules.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\IronPython.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\bin\Debug\IronPython.Modules.xml
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\obj\x86\Debug\LP3-7.pyprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\obj\x86\Debug\LP3_7.MainForm.resources
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\obj\x86\Debug\LP3-7.pyproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\LP3-7\obj\x86\Debug\LP3-7.exe
