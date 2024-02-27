@@ -76,7 +76,7 @@ class Jupitar(Form):
 
 
 	def Button1Click(self, sender, e):
-		self.label1.Text = "Type:  Jovian"
-		self.label2.Text = "Average distance from the sun:  5.2028 AU"
-		self.label3.Text = "Mass:  1.899 × 1027 kg"
-		self.label4.Text = "Surface Tempurature:  –110°C
+		self.label1_.Text = "Type:  Jovian"
+		self.label2_.Text = "Average distance from the sun:  5.2028 AU"
+		self.label3_.Text = "Mass:  1.899 × 10**27 kg"
+		self.label4.Text = "Surface Tempurature:  –220°C"

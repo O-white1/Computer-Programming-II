@@ -75,7 +75,7 @@ class Venus(Form):
 		self.ResumeLayout(False)
 
 	def Button1Click(self, sender, e):
-		self.label1.Text = "Type:  Terrestrial"
-		self.label2.Text = "Average distance from the sun:  0.7233 AU"
-		self.label3.Text = "Mass:  4.87 × 1024 kg"
-		self.label4.Text = "Surface Tempurature:  472°C"
+		self.label1._Text = "Type:  Terrestrial"
+		self.label2._Text = "Average distance from the sun:  0.7233 AU"
+		self.label3._Text = "Mass:  4.87 × 10**24 kg"
+		self.label4._Text = "Surface Tempurature:  472°C"

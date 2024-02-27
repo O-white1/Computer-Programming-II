@@ -64,7 +64,10 @@
     <Compile Include="MainForm.py" />
     <Compile Include="Mars.py" />
     <Compile Include="Merucury.py" />
+    <Compile Include="Neptune.py" />
     <Compile Include="Program.py" />
+    <Compile Include="Saturn.py" />
+    <Compile Include="Uranus.py" />
     <Compile Include="Venus.py" />
   </ItemGroup>
   <ItemGroup>
@@ -85,6 +88,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Merucury.resx">
       <DependentUpon>Merucury.py</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Neptune.resx">
+      <DependentUpon>Neptune.py</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saturn.resx">
+      <DependentUpon>Saturn.py</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uranus.resx">
+      <DependentUpon>Uranus.py</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Venus.resx">
       <DependentUpon>Venus.py</DependentUpon>

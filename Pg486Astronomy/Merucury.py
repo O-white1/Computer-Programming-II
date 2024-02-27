@@ -77,7 +77,7 @@ class Merucury(Form):
 		
 
 	def Button1Click(self, sender, e):
-		self.label1.Text = "Type:  Terrestrial"
-		self.label2.Text = "Average distance from the sun:  0.387 AU"
-		self.label3.Text = "Mass:  3.31 × 1023 kg"
-		self.label4.Text = "Surface Tempurature:  –173°C to 430°C"
+		self._label1.Text = "Type:  Terrestrial"
+		self._label2.Text = "Average distance from the sun:  0.387 AU"
+		self._label3.Text = "Mass:  3.31 × 10**23 kg"
+		self._label4.Text = "Surface Tempurature:  –173°C to 430°C"

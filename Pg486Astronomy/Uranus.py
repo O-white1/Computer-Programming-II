@@ -5,7 +5,7 @@ import System.Windows.Forms
 from System.Drawing import *
 from System.Windows.Forms import *
 
-class Mars(Form):
+class Uranus(Form):
 	def __init__(self):
 		self.InitializeComponent()
 	
@@ -24,7 +24,7 @@ class Mars(Form):
 		self._button1.Location = System.Drawing.Point(12, 163)
 		self._button1.Name = "button1"
 		self._button1.Size = System.Drawing.Size(255, 34)
-		self._button1.TabIndex = 14
+		self._button1.TabIndex = 29
 		self._button1.Text = "Show"
 		self._button1.UseVisualStyleBackColor = False
 		self._button1.Click += self.Button1Click
@@ -35,7 +35,7 @@ class Mars(Form):
 		self._label4.Location = System.Drawing.Point(12, 129)
 		self._label4.Name = "label4"
 		self._label4.Size = System.Drawing.Size(253, 31)
-		self._label4.TabIndex = 13
+		self._label4.TabIndex = 28
 		# 
 		# label3
 		# 
@@ -43,7 +43,7 @@ class Mars(Form):
 		self._label3.Location = System.Drawing.Point(12, 89)
 		self._label3.Name = "label3"
 		self._label3.Size = System.Drawing.Size(253, 31)
-		self._label3.TabIndex = 12
+		self._label3.TabIndex = 27
 		# 
 		# label2
 		# 
@@ -51,7 +51,7 @@ class Mars(Form):
 		self._label2.Location = System.Drawing.Point(12, 49)
 		self._label2.Name = "label2"
 		self._label2.Size = System.Drawing.Size(253, 31)
-		self._label2.TabIndex = 11
+		self._label2.TabIndex = 26
 		# 
 		# label1
 		# 
@@ -59,24 +59,24 @@ class Mars(Form):
 		self._label1.Location = System.Drawing.Point(12, 9)
 		self._label1.Name = "label1"
 		self._label1.Size = System.Drawing.Size(253, 31)
-		self._label1.TabIndex = 10
+		self._label1.TabIndex = 25
 		# 
-		# Mars
+		# Uranus
 		# 
 		self.BackColor = System.Drawing.Color.Maroon
-		self.ClientSize = System.Drawing.Size(276, 214)
+		self.ClientSize = System.Drawing.Size(276, 220)
 		self.Controls.Add(self._button1)
 		self.Controls.Add(self._label4)
 		self.Controls.Add(self._label3)
 		self.Controls.Add(self._label2)
 		self.Controls.Add(self._label1)
-		self.Name = "Mars"
-		self.Text = "Mars"
+		self.Name = "Uranus"
+		self.Text = "Uranus"
 		self.ResumeLayout(False)
 
 
 	def Button1Click(self, sender, e):
-		self.label1._Text = "Type:  Terrestrial"
-		self.label2._Text = "Average distance from the sun:  1.5237 AU"
-		self.label3._Text = "Mass:  0.6424 × 10**24 kg"
-		self.label4._Text = "Surface Tempurature:  –140°C to 20°C"
+		self.label1.Text = "Type:  Jovian"
+		self.label2.Text = "Average distance from the sun:  19.18 AU"
+		self.label3.Text = "Mass:  8.69 × 1025 kg"
+		self.label4.Text = "Surface Tempurature:  –220°C"
