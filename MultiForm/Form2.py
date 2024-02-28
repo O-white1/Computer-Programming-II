@@ -34,7 +34,7 @@ class Form2(Form):
 
 	def Button1Click(self, sender, e):
 		from Form1 import *
-		form1 = Form1(self, "Never gonna give you up, never gonna let you down, never gonna run")
+		form1 = Form1(self, "Hello")
 		form1.Show()
 		self.Hide()
 	

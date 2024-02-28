@@ -42,6 +42,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 1
 		self._button2.Text = "Venus"
 		self._button2.UseVisualStyleBackColor = False
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
@@ -53,6 +54,7 @@ class MainForm(Form):
 		self._button3.TabIndex = 2
 		self._button3.Text = "Earth"
 		self._button3.UseVisualStyleBackColor = False
+		self._button3.Click += self.Button3Click
 		# 
 		# button4
 		# 
@@ -64,6 +66,7 @@ class MainForm(Form):
 		self._button4.TabIndex = 3
 		self._button4.Text = "Mars"
 		self._button4.UseVisualStyleBackColor = False
+		self._button4.Click += self.Button4Click
 		# 
 		# button5
 		# 
@@ -75,6 +78,7 @@ class MainForm(Form):
 		self._button5.TabIndex = 4
 		self._button5.Text = "Saturn"
 		self._button5.UseVisualStyleBackColor = False
+		self._button5.Click += self.Button5Click
 		# 
 		# button6
 		# 
@@ -86,6 +90,7 @@ class MainForm(Form):
 		self._button6.TabIndex = 5
 		self._button6.Text = "Uranus"
 		self._button6.UseVisualStyleBackColor = False
+		self._button6.Click += self.Button6Click
 		# 
 		# button7
 		# 
@@ -97,6 +102,7 @@ class MainForm(Form):
 		self._button7.TabIndex = 6
 		self._button7.Text = "Neptune"
 		self._button7.UseVisualStyleBackColor = False
+		self._button7.Click += self.Button7Click
 		# 
 		# button8
 		# 
@@ -119,6 +125,7 @@ class MainForm(Form):
 		self._button9.TabIndex = 8
 		self._button9.Text = "Jupitar"
 		self._button9.UseVisualStyleBackColor = False
+		self._button9.Click += self.Button9Click
 		# 
 		# MainForm
 		# 
@@ -138,5 +145,28 @@ class MainForm(Form):
 		self.ResumeLayout(False)
 
 
-	def Button1Click(self, sender, e):
+	def Button1Click(self, sender, e): # Mercury
+		from Merucury import *
+		M = Mercury(self, "DoesNothing")
+		M.show()
+
+	def Button2Click(self, sender, e): # Venus
+		pass
+
+	def Button3Click(self, sender, e): # Earth
+		pass
+
+	def Button4Click(self, sender, e): # Mars
+		pass
+
+	def Button9Click(self, sender, e): # Jupitar
+		pass
+
+	def Button5Click(self, sender, e): # Staurn
+		pass
+
+	def Button6Click(self, sender, e): # Anus
+		pass
+
+	def Button7Click(self, sender, e): # Neptune
 		pass
