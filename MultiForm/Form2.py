@@ -6,8 +6,10 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Form2(Form):
-	def __init__(self):
+	def __init__(self, parent, msg):
 		self.InitializeComponent()
+		self.myparent = parent
+		self.msg = msg
 	
 	def InitializeComponent(self):
 		self._button1 = System.Windows.Forms.Button()
@@ -34,7 +36,7 @@ class Form2(Form):
 
 	def Button1Click(self, sender, e):
 		from Form1 import *
-		form1 = Form1(self, "Hello")
+		form1 = Form1(self, "Hello, world!")
 		form1.Show()
 		self.Hide()
 	

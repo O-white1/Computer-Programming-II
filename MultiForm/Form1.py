@@ -61,4 +61,4 @@ class Form1(Form):
 		self._label1.Text = self.msg
 
 	def Form1FormClosing(self, sender, e):
-		self.myparent.show()
+		self.myparent.Show()

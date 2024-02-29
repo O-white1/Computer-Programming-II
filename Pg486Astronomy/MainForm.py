@@ -146,9 +146,9 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e): # Mercury
-		from Merucury import *
-		M = Mercury(self, "DoesNothing")
-		M.show()
+		from Mercury import *
+		Mercury = Mercury(self, "Never gonna give you up, never gonna let you down, never gonna run")
+		self.Hide
 
 	def Button2Click(self, sender, e): # Venus
 		pass
