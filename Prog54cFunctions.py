@@ -1,7 +1,9 @@
-def getRad(rad):
+def getRad():
     rad = int(input("Enter Radius: "))
-def Calc(rad, area, circ):
+    return rad
+def Calc(rad):
     area = 2 * 3.14159 * rad
     circ = (3.14159 * rad)**2
-getRad(rad)
-Calc(rad, area, circ)
+    print("Area: ", area, "\nCircumference: ", circ)
+
+Calc(getRad())
