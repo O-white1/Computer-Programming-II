@@ -6,4 +6,4 @@ def Calc(rad):
     circ = (3.14159 * rad)**2
     print("Area: ", area, "\nCircumference: ", circ)
 
-Calc(getRad())
+Calc(getRad(rad))
