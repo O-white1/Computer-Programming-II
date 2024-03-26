@@ -46,6 +46,6 @@ def main():
             print("Smallest Favorite Admin word: ", small)
             print("Largest Favorite Admin Word: ", large)
 
-
+    except Exception as e: print("Error: ", e)
 if __name__ == "__main__":
     main()
