@@ -1,10 +1,9 @@
 BeesOrLen = int(input("Length (L) or Bees(B): "))
 if BeesOrLen == L:
-    unit = str(input("")
+    unit = str(input("Meters (M) or kilometers (K)")
+    if unit == M:
+        pass
 
 
-
-
-elif B == BeesOrLen:
+if BeesOrLen == B:
     pass
-llll
