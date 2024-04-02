@@ -20,13 +20,12 @@ class CLlp312:
 
 
   def display(self):
-    print("Catigory\tBudget")
-    print(f"Food\t\t\t{self._percents[0]}%")
-    print(f"Clothing\t\t{self._percents[1]}%")
-    print(f"Entertainment\t{self._percents[2]}%")
-    print(f"Rent\t\t\t{self._percents[3]}%")
-    print(f"Total amount spent: ${self._budget:.2f}")
-  #output section
+print("Catigory\tBudget")
+print(f"Food\t\t\t{self._percents[0]}%")
+print(f"Clothing\t\t{self._percents[1]}%")
+print(f"Entertainment\t{self._percents[2]}%")
+print(f"Rent\t\t\t{self._percents[3]}%")
+print(f"Total amount spent: ${self._budget:.2f}")
 print("Enter The amount spent last month on the following items: \n")
 food = float(input("Food:"))
 clothing = float(input("Clothing:"))
