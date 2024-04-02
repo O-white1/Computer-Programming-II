@@ -32,6 +32,7 @@ def main():
         mat1.append(row1)
         mat2.append(row2)
 
+
     print("Matrix 1:")
     printMatrix(mat1)
 
