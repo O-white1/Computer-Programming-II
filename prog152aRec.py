@@ -1,14 +1,15 @@
 import sys
 sys.setrecursionlimit(5000)
 
-def FactLoop(): # Use recursion as opposed to a loop
-    prod = 1
-    for i in range(9669, 3, -3):
-        prod += i
-    print(prod)
+def FactLoop(x):
+    tot = 0
+    tot += x
+    if x <= 3: return x
+    return x * FactLoop(x-3)
 
 def main():
-    FactLoop()
+    x = 9669
+    FactLoop(x)
 
 if __name__ == "__main__":
     main()
