@@ -1,0 +1,6 @@
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-1--CS\bin\Debug\LP4-1--CS.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-1--CS\bin\Debug\LP4-1--CS.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-1--CS\bin\Debug\LP4-1--CS.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-1--CS\obj\Debug\LP4-1--CS.csprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-1--CS\obj\Debug\LP4-1--CS.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-1--CS\obj\Debug\LP4-1--CS.pdb

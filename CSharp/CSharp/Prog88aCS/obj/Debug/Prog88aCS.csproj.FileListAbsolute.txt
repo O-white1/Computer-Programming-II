@@ -7,3 +7,6 @@ C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog88aCS\
 C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog88aCS\obj\Debug\Prog88aCS.csproj.GenerateResource.Cache
 C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog88aCS\obj\Debug\Prog88aCS.exe
 C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog88aCS\obj\Debug\Prog88aCS.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog88aCS\bin\Debug\Prog88aCS.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog88aCS\obj\Debug\Prog88aCS.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog88aCS\obj\Debug\Prog88aCS.pdb
