@@ -20,7 +20,7 @@ namespace p266LargeSmall {
             else lrg = "num2";
             label3.Text = "The Larger one is " + lrg;
         }
-
+        // ignore this
         private void button2_Click(object sender, EventArgs e) {
             textBox2.Text = "";
             textBox1.Text = "";
