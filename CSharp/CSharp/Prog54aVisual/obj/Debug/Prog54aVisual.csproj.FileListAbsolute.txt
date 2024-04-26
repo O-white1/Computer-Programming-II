@@ -7,3 +7,6 @@ C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog54aVis
 C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog54aVisual\obj\Debug\Prog54aVisual.csproj.GenerateResource.Cache
 C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog54aVisual\obj\Debug\Prog54aVisual.exe
 C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\Prog54aVisual\obj\Debug\Prog54aVisual.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog54aVisual\bin\Debug\Prog54aVisual.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog54aVisual\obj\Debug\Prog54aVisual.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog54aVisual\obj\Debug\Prog54aVisual.pdb
