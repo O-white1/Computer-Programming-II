@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutMeFormCSharp", "AboutM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg273BookClubPoints", "pg273BookClubPoints\pg273BookClubPoints.csproj", "{44D80102-7804-4F63-8569-B94F6BF5BECB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog122a", "Prog122a\Prog122a.csproj", "{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{44D80102-7804-4F63-8569-B94F6BF5BECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D80102-7804-4F63-8569-B94F6BF5BECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D80102-7804-4F63-8569-B94F6BF5BECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
