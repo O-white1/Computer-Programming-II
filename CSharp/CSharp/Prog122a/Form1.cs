@@ -11,7 +11,9 @@ using System.Windows.Forms;
 namespace Prog122a {
     public partial class Form1 : Form {
         public Form1() { InitializeComponent(); }
+
         private void button1_Click(object sender, EventArgs e) {
+
             listBox1.Items.Clear();
             listBox1.Items.Add("Number\t\tSquare\t\tSqaure Rot");
             int lcv = 1;
@@ -23,7 +25,6 @@ namespace Prog122a {
             }
 
         }
-
         private void button2_Click(object sender, EventArgs e) { listBox1.Items.Clear(); }
         private void button3_Click(object sender, EventArgs e) { Application.Exit(); }
 
