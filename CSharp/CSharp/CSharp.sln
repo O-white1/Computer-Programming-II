@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg273BookClubPoints", "pg27
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog122a", "Prog122a\Prog122a.csproj", "{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog310a", "Prog310a\Prog310a.csproj", "{2DA7A9AD-D2B9-4258-85CC-B3A595834E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg347Sum", "pg347Sum\pg347Sum.csproj", "{5C207375-9190-4928-94E9-1C1FF707C217}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F715ED2D-7D9C-43A2-AD98-20AB5AF4B923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA7A9AD-D2B9-4258-85CC-B3A595834E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA7A9AD-D2B9-4258-85CC-B3A595834E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA7A9AD-D2B9-4258-85CC-B3A595834E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA7A9AD-D2B9-4258-85CC-B3A595834E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C207375-9190-4928-94E9-1C1FF707C217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C207375-9190-4928-94E9-1C1FF707C217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C207375-9190-4928-94E9-1C1FF707C217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C207375-9190-4928-94E9-1C1FF707C217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
