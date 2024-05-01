@@ -1,1 +1,9 @@
 C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\bin\Debug\pg273BookClubPoints.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\bin\Debug\pg273BookClubPoints.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\bin\Debug\pg273BookClubPoints.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.csprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.Form1.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.Properties.Resources.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.csproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg273BookClubPoints\obj\Debug\pg273BookClubPoints.pdb
