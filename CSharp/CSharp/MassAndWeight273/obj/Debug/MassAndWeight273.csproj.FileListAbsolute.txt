@@ -1,0 +1,8 @@
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\bin\Debug\MassAndWeight273.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\bin\Debug\MassAndWeight273.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\bin\Debug\MassAndWeight273.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\obj\Debug\MassAndWeight273.Form1.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\obj\Debug\MassAndWeight273.Properties.Resources.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\obj\Debug\MassAndWeight273.csproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\obj\Debug\MassAndWeight273.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\MassAndWeight273\obj\Debug\MassAndWeight273.pdb
