@@ -1,1 +1,9 @@
 C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\bin\Debug\Prog122d.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\obj\Debug\Prog122d.csprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\obj\Debug\Prog122d.Form1.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\obj\Debug\Prog122d.Properties.Resources.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\obj\Debug\Prog122d.csproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\bin\Debug\Prog122d.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\bin\Debug\Prog122d.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\obj\Debug\Prog122d.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Prog122d\obj\Debug\Prog122d.pdb
