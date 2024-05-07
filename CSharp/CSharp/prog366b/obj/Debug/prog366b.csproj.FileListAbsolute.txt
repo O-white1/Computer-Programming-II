@@ -1,0 +1,9 @@
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\bin\Debug\prog366b.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\obj\Debug\prog366b.csprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\obj\Debug\prog366b.Form1.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\obj\Debug\prog366b.Properties.Resources.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\obj\Debug\prog366b.csproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\bin\Debug\prog366b.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\bin\Debug\prog366b.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\obj\Debug\prog366b.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog366b\obj\Debug\prog366b.pdb
