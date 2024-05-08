@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog122b", "prog122b\prog12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog366b", "prog366b\prog366b.csproj", "{359FFD5B-78C2-4EFF-BC00-E37796965772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435TicketSales", "Pg435TicketSales\Pg435TicketSales.csproj", "{6F2391E2-BD1F-48F8-A6D5-73EEF0368738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{359FFD5B-78C2-4EFF-BC00-E37796965772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{359FFD5B-78C2-4EFF-BC00-E37796965772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{359FFD5B-78C2-4EFF-BC00-E37796965772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2391E2-BD1F-48F8-A6D5-73EEF0368738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2391E2-BD1F-48F8-A6D5-73EEF0368738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2391E2-BD1F-48F8-A6D5-73EEF0368738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2391E2-BD1F-48F8-A6D5-73EEF0368738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

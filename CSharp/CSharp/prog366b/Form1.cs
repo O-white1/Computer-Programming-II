@@ -12,6 +12,7 @@ namespace prog366b {
     public partial class Form1 : Form {
         public Form1()
            {InitializeComponent(); }
+
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e) { }
         private void Form1_Load(object sender, EventArgs e) { }
         private void button2_Click(object sender, EventArgs e) {
@@ -42,15 +43,7 @@ namespace prog366b {
                 if (n % lcv == 0) return lcv;
             return n;
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            listBox1.Items.Clear();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
+        private void button1_Click(object sender, EventArgs e) { listBox1.Items.Clear(); }
+        private void button3_Click(object sender, EventArgs e) {Application.Exit(); }
     }
 }
