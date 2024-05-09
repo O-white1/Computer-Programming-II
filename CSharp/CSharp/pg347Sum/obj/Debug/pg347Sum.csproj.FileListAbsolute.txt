@@ -1,1 +1,9 @@
 C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\bin\Debug\pg347Sum.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\obj\Debug\pg347Sum.csprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\obj\Debug\pg347Sum.Form1.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\obj\Debug\pg347Sum.Properties.Resources.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\obj\Debug\pg347Sum.csproj.GenerateResource.Cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\bin\Debug\pg347Sum.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\bin\Debug\pg347Sum.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\obj\Debug\pg347Sum.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\pg347Sum\obj\Debug\pg347Sum.pdb
