@@ -1,1 +1,5 @@
 C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\CatchMe535REAL\bin\Debug\CatchMe535REAL.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\CatchMe535REAL\obj\Debug\CatchMe535REAL.csprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\CatchMe535REAL\obj\Debug\CatchMe535REAL.Form1.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\CatchMe535REAL\obj\Debug\CatchMe535REAL.Properties.Resources.resources
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\CatchMe535REAL\obj\Debug\CatchMe535REAL.csproj.GenerateResource.Cache
