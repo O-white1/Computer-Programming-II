@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchMe535REAL", "CatchMe53
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg498PayRoll", "Pg498PayRoll\Pg498PayRoll.csproj", "{54FD4B92-1E8F-4E0B-81BA-8C0EF59B38E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringinterview7", "Stringinterview7\Stringinterview7.csproj", "{7F0ABFF3-1065-4824-8B17-6F9AAEAC0121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringinterview16", "Stringinterview16\Stringinterview16.csproj", "{6DB07BF2-476A-4EB8-8D9E-506EEE1A53B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{54FD4B92-1E8F-4E0B-81BA-8C0EF59B38E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54FD4B92-1E8F-4E0B-81BA-8C0EF59B38E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54FD4B92-1E8F-4E0B-81BA-8C0EF59B38E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0ABFF3-1065-4824-8B17-6F9AAEAC0121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0ABFF3-1065-4824-8B17-6F9AAEAC0121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0ABFF3-1065-4824-8B17-6F9AAEAC0121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0ABFF3-1065-4824-8B17-6F9AAEAC0121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB07BF2-476A-4EB8-8D9E-506EEE1A53B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB07BF2-476A-4EB8-8D9E-506EEE1A53B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB07BF2-476A-4EB8-8D9E-506EEE1A53B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB07BF2-476A-4EB8-8D9E-506EEE1A53B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

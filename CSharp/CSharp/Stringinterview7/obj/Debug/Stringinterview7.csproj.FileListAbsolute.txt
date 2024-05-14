@@ -1,0 +1,6 @@
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview7\bin\Debug\Stringinterview7.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview7\bin\Debug\Stringinterview7.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview7\bin\Debug\Stringinterview7.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview7\obj\Debug\Stringinterview7.csprojResolveAssemblyReference.cache
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview7\obj\Debug\Stringinterview7.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview7\obj\Debug\Stringinterview7.pdb

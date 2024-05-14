@@ -1,0 +1,5 @@
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview16\bin\Debug\Stringinterview16.exe.config
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview16\bin\Debug\Stringinterview16.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview16\bin\Debug\Stringinterview16.pdb
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview16\obj\Debug\Stringinterview16.exe
+C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\Stringinterview16\obj\Debug\Stringinterview16.pdb
