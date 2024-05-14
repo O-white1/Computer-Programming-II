@@ -1,9 +1,0 @@
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\bin\Debug\p266LargeSmall.exe.config
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\bin\Debug\p266LargeSmall.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\bin\Debug\p266LargeSmall.pdb
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\obj\Debug\p266LargeSmall.csprojResolveAssemblyReference.cache
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\obj\Debug\p266LargeSmall.Form1.resources
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\obj\Debug\p266LargeSmall.Properties.Resources.resources
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\obj\Debug\p266LargeSmall.csproj.GenerateResource.Cache
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\obj\Debug\p266LargeSmall.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\p266LargeSmall\obj\Debug\p266LargeSmall.pdb

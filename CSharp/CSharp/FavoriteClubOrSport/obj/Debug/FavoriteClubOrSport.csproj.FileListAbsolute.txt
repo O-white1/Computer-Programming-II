@@ -1,7 +1,0 @@
-C:\Users\white.o3\Desktop\prog1\Computer-Programming-II\CSharp\CSharp\FavoriteClubOrSport\bin\Debug\FavoriteClubOrSport.exe.config
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\FavoriteClubOrSport\bin\Debug\FavoriteClubOrSport.exe.config
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\FavoriteClubOrSport\bin\Debug\FavoriteClubOrSport.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\FavoriteClubOrSport\bin\Debug\FavoriteClubOrSport.pdb
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\FavoriteClubOrSport\obj\Debug\FavoriteClubOrSport.csprojResolveAssemblyReference.cache
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\FavoriteClubOrSport\obj\Debug\FavoriteClubOrSport.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\FavoriteClubOrSport\obj\Debug\FavoriteClubOrSport.pdb

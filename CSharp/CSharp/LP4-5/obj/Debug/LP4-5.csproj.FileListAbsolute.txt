@@ -1,5 +1,0 @@
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-5\bin\Debug\LP4-5.exe.config
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-5\bin\Debug\LP4-5.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-5\bin\Debug\LP4-5.pdb
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-5\obj\Debug\LP4-5.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\LP4-5\obj\Debug\LP4-5.pdb

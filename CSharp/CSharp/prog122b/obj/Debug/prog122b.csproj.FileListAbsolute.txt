@@ -1,8 +1,0 @@
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\bin\Debug\prog122b.exe.config
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\obj\Debug\prog122b.Form1.resources
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\obj\Debug\prog122b.Properties.Resources.resources
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\obj\Debug\prog122b.csproj.GenerateResource.Cache
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\bin\Debug\prog122b.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\bin\Debug\prog122b.pdb
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\obj\Debug\prog122b.exe
-C:\Users\white.o3\Desktop\Computer-Programming-II\CSharp\CSharp\prog122b\obj\Debug\prog122b.pdb
